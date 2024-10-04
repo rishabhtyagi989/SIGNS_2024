@@ -1,10 +1,12 @@
-# Erdos_DS_2024_SIGNS
+## Erdos_DS_2024_SIGNS
 
-SIGNS - Stock Insights from Global News Sentiments
+## SIGNS - Stock Insights from Global News Sentiments
+
 Objective:
 The goal of this project is to predict whether stock prices will rise or fall based on sentiment analysis of financial and geopolitical news. The focus is on gathering sentiment data from news and social media platforms, analyzing relevant stock price factors, and building machine learning models to forecast stock price movements.
 Business Value/ Impact: 
 Accurate stock price prediction is crucial for investors and financial institutions which aid them in forming a more informed trading strategy. This project aims to study the historical behavior of markets and how various news events like financial news, geopolitical news of war and conflict, or even news or rumors about election results influence market behavior. By integrating this kind of sentiment analysis with financial data this project aims to optimize trading strategies by forecasting stock prices accurately. 
+
 Stakeholders:
 -- Financial analysts and Traders
 -- Investment firms 
