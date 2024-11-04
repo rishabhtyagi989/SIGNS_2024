@@ -8,7 +8,7 @@
   - **Sentiment Scoring for DataFrame**: For each headline in a dataset, calculates sentiment scores if keywords are detected. Average scores are computed for each row, saved as "compound sentiment score" in the DataFrame, and exported to CSV.
 
 ### Module 2: news_preliminary_data_exploration
-- **Setup and Data Loading**: Loads precomputed sentiment scores and stock data for a list of stock symbols (`GOOG`, `MSFT`, `NVDA`, `AMZN`, `AAPL`) into separate dictionaries.
+- **Setup and Data Loading**: Loads precomputed sentiment scores from the above module and stock data for a list of stock symbols (`GOOG`, `MSFT`, `NVDA`, `AMZN`, `AAPL`) into separate dictionaries.
 - **Date Conversion and Filtering**: Converts and filters dates in both sentiment and stock data to focus on a specified range (`2006-06-01` to `2016-06-01`).
 - **Data Alignment**: Retains only matching dates across sentiment and stock data to ensure data consistency for analysis.
 - **Price Difference Calculation**: Computes daily price differences (`Close - Open`) for each stock symbol, which can be used to study the relationship between sentiment and stock price movements.
