@@ -1,4 +1,4 @@
-## Erdos_DS_2024_SIGNS
+## Erdos Data Science Bootcamp  
 
 ## SIGNS - Stock Insights from Global News Sentiments
 
